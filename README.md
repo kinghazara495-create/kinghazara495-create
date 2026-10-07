@@ -2,7 +2,7 @@
 
 **Cyber security student | Self-taught pentesting | Building OSINT and security tools in Python**
 
-Karachi, Pakistan · HUmdard University · First semester, CGPA 3.48
+Karachi, Pakistan · HUmdard University · First semester, CGPA 3.25
 
 Self-taught through free YouTube and practice rather than paid courses. Currently
 working on Kali Linux, Burp Suite, Hydra and penetration testing fundamentals,
